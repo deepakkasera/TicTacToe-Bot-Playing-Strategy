@@ -4,7 +4,7 @@
 
 You are building Tic Tac Toe game. As a part of this game implementation, you need to implement bot playing algorithm. 
 
-Implement Bot playinh algorithm in which Bot can place the symbol at first available while iterating the board.
+Implement Bot playing algorithm in which Bot can place the symbol at the first available while iterating the board from left to right.
 
 ## Instructions
 
